@@ -1,0 +1,24 @@
+img {
+    height: 200px;
+}
+.container {justify-content: center;
+    display: flex;
+} 
+body {
+    font-family: 'Spicy Rice', cursive; 
+    background: blue;
+}
+button {
+    margin: 10px;padding: 10px;
+}
+.container {justify-content: center;
+        display: flex;
+}
+h1 {
+    color: yellow;
+}    
+h1 {
+    text-align: center;
+}
+
+    
